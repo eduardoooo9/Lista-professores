@@ -1,0 +1,23 @@
+
+body{
+    background-color: #f8f8f8;
+}
+*{
+    font-family: Arial;
+}
+h1{
+    background-color: blueviolet;
+    text-align: center;
+}
+li{
+    background-color: chartreuse;
+    width: 350px;
+    height: 175px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 50px;
+    border: groove 2px rebeccapurple;
+}
+a{
+    font-size: 40px;
+}
